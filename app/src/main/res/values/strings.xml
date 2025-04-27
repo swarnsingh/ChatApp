@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat App</string>
+    
+    <!-- Chat List Screen -->
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_conversations">No conversations yet. Start a new chat!</string>
+    <string name="new_chat">New Conversation</string>
+    <string name="new_chat_hint">Enter a name for your new conversation (optional)</string>
+    <string name="chat_name">Chat Name</string>
+    <string name="chat_preview">Chat with Bot</string>
+    <string name="queued">Queued</string>
+    <string name="error_sending">Error sending message</string>
+    
+    <!-- Chat Screen -->
+    <string name="chat_title">Chat</string>
+    <string name="back">Back</string>
+    <string name="no_messages">No messages yet</string>
+    <string name="type_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="select_channel">Select Channel</string>
+    <string name="select_channel_hint">Tap on a channel to join</string>
+    <string name="create_channel">Create Channel</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="create_bot">Create new bot</string>
+    <string name="bot_name">Bot Name</string>
+
+    <!-- Message Status -->
+    <string name="message_status_queued">Queued</string>
+    <string name="message_status_sending">Sending…</string>
+    <string name="message_status_sent">Sent</string>
+    <string name="message_status_delivered">Delivered</string>
+    <string name="message_status_read">Read</string>
+    <string name="message_status_unread">Unread</string>
+    <string name="message_status_error">Failed to send</string>
+</resources>
