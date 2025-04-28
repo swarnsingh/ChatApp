@@ -2,6 +2,9 @@
 
 A modern Android chat application that provides real-time messaging capabilities with offline support and robust error handling.
 
+## Demo
+[Watch the video](https://github.com/user-attachments/assets/db7272e3-f8a4-4029-be26-4083763929de)
+
 ## Features
 
 ### Core Features
